@@ -1,18 +1,18 @@
 # Part 3. Debugging using the DevTools
 
 ## DevTools - Debugging:
-Breakpoints: 
+### Breakpoints: 
 ![LabWeek4Breakpoints](https://user-images.githubusercontent.com/60761222/106372739-ab13ad80-6327-11eb-99d6-fc401c2e5b47.png)
 
-Watch Expression: 
+### Watch Expression: 
 ![LabWeek4WatchExpressions](https://user-images.githubusercontent.com/60761222/106372748-bb2b8d00-6327-11eb-9e38-98509c527cf3.png)
 
 1. What was the bug?
 - The inputs are of type string and so the + is overloaded with concatenation. 
-- 
+  
 2. How would you fix it? Include a screenshot of your fix.
 - Use parseInt() to convert strings to integers, then add semi-colons. 
-Bug Fix: 
+### Bug Fix: 
 ![LabWeek4BugFix](https://user-images.githubusercontent.com/60761222/106372908-5ffa9a00-6329-11eb-8bfb-6a1499844795.png)
 
 
