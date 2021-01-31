@@ -1,0 +1,25 @@
+{
+  "name": "wi21-cse110-lab4",
+  "version": "1.0.0",
+  "description": "part 1 lab",
+  "main": "part1_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asherbav/wi21-cse110-lab4.git"
+  },
+  "author": "asherbav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asherbav/wi21-cse110-lab4/issues"
+  },
+  "homepage": "https://github.com/asherbav/wi21-cse110-lab4#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
