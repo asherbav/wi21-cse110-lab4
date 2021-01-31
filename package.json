@@ -1,8 +1,8 @@
 {
   "name": "wi21-cse110-lab4",
   "version": "1.0.0",
-  "description": "part 1 lab",
-  "main": "part1_1.js",
+  "description": "Part 1",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
